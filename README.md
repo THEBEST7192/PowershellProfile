@@ -1,5 +1,5 @@
 # Powershell Profiles
-This is a collection of my personal powershell profiles, some are for fun others have an actual funcunality
+This is a collection of my personal powershell functions and other other things, some are for fun others have an actual funcunality
 ## Installation and Usage
 To get this up and running type:
 ```bash
