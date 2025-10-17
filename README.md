@@ -20,13 +20,14 @@ Paste your desired code into it, i.e. kys.ps1 or fullprofile.ps1
 
 | Function   | Description                                                                          | Parameters                                  |
 |------------|--------------------------------------------------------------------------------------|---------------------------------------------|
-| kys        | Displays an image of LowTierGod and closes the terminal, you can replace it with something else if you want.                             | None                                        |
-| rick       | Sends you to the "Never Gonna Give You Up" YouTube video also known as a "Rick Roll".            | None                                        |
+| kys        | Displays the KYS meme and closes the terminal.                                         | None                                        |
+| kys_flash  | Flashes between the KYS meme in different colors.                                     | None                                        |
+| rick       | Sends you to the "Never Gonna Give You Up" YouTube video also known as a "Rick Roll".  | None                                        |
 | flash      | Flashes the terminal screen between black and white.                                   | None                                        |
 | flash+     | Continuously flashes the terminal screen through a sequence of different colors.       | None                                        |
 | spin       | Shows a simple loading spinner animation in the console.                               | None                                        |
 | beep       | Plays a random number of beeps with random frequencies and durations.                  | None                                        |
-| beep-morse | Beeps out a user-defined message in Morse code.                                      | `-message <string>` (Mandatory)             |
+| beep-morse | Beeps out a user-defined message in Morse code.                                        | `-message <string>` (Mandatory)             |
 
 
 ## Future Development
